@@ -38,7 +38,7 @@ It is in good practice to setup a virtual environment in case we need to control
 
 If you are **not a programmer** and is solely using this to edit markdown files, you can skip to **step 6**.
 
-4. You will do `python -m venv venv` to create a new environment.
+4. Use `python -m venv venv` to create a new environment.
 5. Then we need to activate the Virtual Environment's Script. Use `.\venv\Scripts\activate\`.
 * If you run into an Execution Policy error, we'll do the following to get sorted. Use ` Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser` and then Press "Y" to continue. Rerun the activation program to run the virtual environment.
 
