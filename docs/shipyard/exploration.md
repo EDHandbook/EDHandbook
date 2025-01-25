@@ -1,0 +1,1 @@
+exploration builds and outfitting notes

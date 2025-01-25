@@ -1,0 +1,1 @@
+add notes for most useful optional internal modules here, career-agnostic.

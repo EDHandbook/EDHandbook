@@ -1,0 +1,1 @@
+explain core internal outfitting, optimal mods, and some mechanics here

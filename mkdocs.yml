@@ -77,8 +77,41 @@ theme:
 
 # Navigation
 nav:
-  - Home: index.md
-  - About: about.md
+  - Home: 
+    - Test: index.md
+  - Tutorials:
+    - Early Steps: tutorials/early-steps.md
+    - Engineering: tutorials/engineering.md
+    - Careers:
+      - Combat: tutorials/careers/combat.md
+  - Shipyard:
+    - Overview: shipyard/overview.md
+    - PvE Combat: shipyard/pve-combat.md
+    - PvP Combat: shipyard/pvp-combat.md
+    - AX Combat: shipyard/ax-combat.md
+    - Trading: shipyard/trading.md
+    - Mining: shipyard/mining.md
+    - Exploration: shipyard/exploration.md
+    - Modules:
+      - Weapons: shipyard/outfitting/weapons.md
+      - Utility Mounts: shipyard/outfitting/utility-mounts.md
+      - Core Internals: shipyard/outfitting/core-internals.md
+      - Optional Internals: shipyard/outfitting/optional-internals.md
+  - Mechanics:
+    - Combat: mechanics/combat.md
+    - Stations Services: mechanics/station-services.md
+  - On-Foot:
+    - Early Steps: on-foot/early-steps.md
+    - Engineering: on-foot/engineering.md
+    - Activities: on-foot/activities.md
+  - Resources:
+    - Control Bindings: resources/control-bindings.md
+    - Third Party Tools:
+      - EDDN connection: resources/third-party/eddn.md
+      - Exploration: resources/third-party/exploration.md
+      - Engineering: resources/third-party/engineering.md
+      - Ship Builders: resources/third-party/ship-builders.md
+      - Inara: resources/third-party/inara.md
 
 extra:
   generator: false

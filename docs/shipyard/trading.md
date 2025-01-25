@@ -1,0 +1,1 @@
+Trading builds should be a pretty straight forward progression, Type9 being the most controversial probably.
