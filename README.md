@@ -84,3 +84,9 @@ Then click on **Commit to main** on the very bottom of the page to commit the ch
 
 **Make sure to save every changes you made in your local environment, including the YML file!**
 
+## Markdown Resources
+
+There are some markdown resources you can use to help format. 
+
+* [StackEdit.io](https://stackedit.io/) is a great place to practice markdown format.
+* Anywhere on **Discord** is great too! The messages are pretty much written in markdown format.
