@@ -1,1 +1,88 @@
-site_name: My Docs
+site_name: ED Handbook Info
+site_url: https://somegeneric.website.com/
+
+markdown_extensions:
+
+  # extenions
+  - pymdownx.emoji:
+      emoji_index: !!python/name:material.extensions.emoji.twemoji
+      emoji_generator: !!python/name:material.extensions.emoji.to_svg
+  
+  - pymdownx.highlight:
+      anchor_linenums: true
+      line_spans: __span
+      pygments_lang_class: true
+
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
+  - pymdownx.tabbed:
+      alternate_style: true
+      slugify: !!python/object/apply:pymdownx.slugs.slugify
+        kwds:
+          case: lower
+
+  # standalone
+  - abbr
+  - admonition
+  - attr_list
+  - md_in_html
+  - tables
+
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.blocks.caption
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+
+extra_css:
+  - assets/extra.css
+
+theme:
+  name: material
+
+  # features for all elements
+  features:
+    - navigation.instant
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.tabs
+    - navigation.tracking
+    - content.tabs.link
+    - content.tooltips
+    - content.code.copy
+    - content.code.annotate
+
+  # font formatting
+  font:
+    text: Quicksand
+    code: Source Code Pro
+
+  icon:
+    annotation: material/alert-circle
+
+  # Dark Palette
+  palette:
+    scheme: slate
+    primary: amber
+    accent: deep purple
+
+# Navigation
+nav:
+  - Home: index.md
+  - About: about.md
+  - Getting Started:
+    - 'pages/gs-overview.md'
+    - 'pages/controls.md'
+    - 'pages/instance.md'
+
+extra:
+  generator: false
