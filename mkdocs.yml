@@ -79,10 +79,6 @@ theme:
 nav:
   - Home: index.md
   - About: about.md
-  - Getting Started:
-    - 'pages/gs-overview.md'
-    - 'pages/controls.md'
-    - 'pages/instance.md'
 
 extra:
   generator: false
