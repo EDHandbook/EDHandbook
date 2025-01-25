@@ -80,5 +80,7 @@ Nav:
 
 For now, until the website's been hosted, you may commit changes into the Repository. Let's open Github Desktop. Github Desktop will reflect any saved changes you made to a file or several files. Once all of the changes are reviewed, add a commit title, and a small comment if needed.
 
-Then click on **Commit to main** on the very bottom of the page to commit the changes into the repository. 
+Then click on **Commit to main** on the very bottom of the page to commit the changes into the repository. And then near the top, we will press **Push to Origin** to push the changes into the website. 
+
+**Make sure to save every changes you made in your local environment, including the YML file!**
 
