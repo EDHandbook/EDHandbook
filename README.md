@@ -34,17 +34,15 @@ Let's setup the local environment. Let's open up a command line. For starters, c
 2. Excellent, let's then use `cd ED-Handbook` to enter into the folder of our project.
 3. Then, we need to use Python's PIP command to install Material by MKDocs. Use `pip install mkdocs-material` and wait for the package to be installed. 
 
-It is in good practice to setup a virtual environment in case we need to control dependencies within our project. Let's start at 3. from the setting up the environment.
-
-If you are **not a programmer** and is solely using this to edit markdown files, you can skip to **step 6**.
+It is in good practice to setup a virtual environment in case we need to control dependencies within our project. If you are **not a programmer** and is solely using this to edit markdown files, you can skip to **step 6**.
 
 4. Use `python -m venv venv` to create a new environment.
 5. Then we need to activate the Virtual Environment's Script. Use `.\venv\Scripts\activate\`.
-* If you run into an Execution Policy error, we'll do the following to get sorted. Use ` Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser` and then Press "Y" to continue. Rerun the activation program to run the virtual environment.
+* If you run into an Execution Policy error, we'll do the following to get sorted. Use `Set-ExecutionPolicy -ExecutionPolicy RemoteSigned -Scope CurrentUser` and then Press "Y" to continue. Rerun the activation program to run the virtual environment. *This command will grant access to execute scripts to run on the current user instance.*
 
-6. Great, you should have a basic environment built for the project, you can now begin editing. Let's open up Visual Studios by using the command `code .`
+6. Great, you should have an environment setup for this project, you can now begin editing. Let's open up Visual Studios by using the command `code .`
 
-If you are **not a programmer** and is solely using this to edit markdown files, you can skip to **step 7**.
+This next step is for developers who have gone and did steps 4 & 5. If you are **not a programmer** and is solely using this to edit markdown files, you can skip to **step 7**.
 
 7. In Visual Studios Code, we'll launch the Virtual Environment again just to check that things are in order, again, if you run into Execution Policy errors, refer to **Steps 4 & 5**. Use `.\venv\Scripts\activate\`.
 
