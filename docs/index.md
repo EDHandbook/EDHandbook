@@ -1,17 +1,5 @@
-# Welcome to MkDocs
+# Welcome to ED Handbook
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+ED Handbook is the ultimate central guide for the game Elite: Dangerous. This is a project with individuals who are enthusiastic about the game and wish to help the community with quality resources, rich in information, and documented by experienced players with a deep understanding of the game and its mechanics. 
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+We are not endorsed by Elite Dangerous, we are not partnered with Elite Dangerous. ED Handbook is purely a collaborative passion project.

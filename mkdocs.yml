@@ -81,9 +81,13 @@ theme:
 # Navigation
 nav:
   - Home: 
-    - Test: index.md
+    - Welcome: index.md
+    - About: about.md
+  - Getting Started: 
+    - Welcome: intro/welcome.md
+    - Horizons: intro/edh.md
+    - Odyssey: intro/edo.md
   - Tutorials:
-    - Early Steps: tutorials/early-steps.md
     - Engineering: tutorials/engineering.md
     - Careers:
       - Combat: tutorials/careers/combat.md
