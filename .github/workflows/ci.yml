@@ -42,5 +42,5 @@ jobs:
           ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
           local_path: './'
           remote_path: '~/html'
-          rsyncArgs: '--exclude=.git --exclude=*.log'
+          sftp_only: true
           sftpArgs: '-o ConnectTimeout=5'
