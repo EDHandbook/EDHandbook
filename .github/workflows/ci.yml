@@ -6,6 +6,17 @@ on:
 permissions:
   contents: write
 jobs:
+  runState:
+    runs-on: utuntu-latest
+    outputs:
+      output1: ${{ steps.isTaggedRelease.outputs.test }}
+    steps:
+      - id: isTaggedRelease
+        run: |
+          if [[ ${{ github.event.ref }} =~ ^refs/tags/v[0-9]+\.[0-9]+\.[0-9]+$ ]]; then
+              echo "test=true" >> $GITHUB_OUTPUT
+          fi
+    
   deploy:
     runs-on: ubuntu-latest
     steps:
@@ -36,6 +47,7 @@ jobs:
 
       - name: Deploy to Digital Ocean droplet
         uses: wlixcc/SFTP-Deploy-Action@v1.2.5
+        if: steps.isTaggedRelease.output.test == true
         with:
           username: 'sftpuser'
           server: '209.38.60.133'
