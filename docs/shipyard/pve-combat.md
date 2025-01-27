@@ -106,6 +106,8 @@ This would be a short description about the build
             - [ ] Isn't built for longevity PvE battles and will require frequent rearms or synthesis.
             - [ ] May need additional reinforcement for High intensity conflict zones.
 
+            [:material-open-in-new: ED Shipyard](https://edsy.org/#/L=IQ00000H4C0S00,mpUFBG00FBG00,,9p300AAo00AQQ00AeU00Au600B9I00BLo00Bb600,,7TM000720005U0005U00mpU0nG00){ .md-button }
+
         === "Combat Mission Build"
 
             This is a build specialized for dealing with Pirate Massacres and Assassination Missions
@@ -113,6 +115,8 @@ This would be a short description about the build
             - [x] Has these weapons that deal good penetrating damage.
             - [x] Can be exceptionally well built for Threat 4 mission-related signal sources.
             - [ ] May struggle with dealing with higher-threat assassination targets.
+
+            [:material-open-in-new: ED Shipyard](https://edsy.org/#/L=IQ00000H4C0S00,mpUFBG00FBG00,,9p300AAo00AQQ00AeU00Au600B9I00BLo00Bb600,,7TM000720005U0005U00mpU0nG00){ .md-button }
 
 
 </div>

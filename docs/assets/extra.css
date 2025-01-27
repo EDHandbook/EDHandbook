@@ -4,13 +4,7 @@
     font-weight:bold;
 }
 
-.md-typeset h2 {
-    color:lightslategray;
-    font-family:'Segoe UI';
-    font-weight: 500;
-}
-
-.md-typeset h3 {
+.md-typeset h2, h3 {
     color:lightslategray;
     font-family:'Segoe UI';
     font-weight: 500;
