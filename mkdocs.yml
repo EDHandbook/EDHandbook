@@ -25,6 +25,9 @@ markdown_extensions:
         kwds:
           case: lower
 
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
   # standalone
   - abbr
   - admonition
@@ -46,11 +49,26 @@ markdown_extensions:
       emoji_index: !!python/name:material.extensions.emoji.twemoji
       emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
+plugins:
+  - tags
+  - search
+
 extra_css:
   - assets/extra.css
 
 theme:
   name: material
+
+  annotation: material/alert-circle
+
+  # icons for tags
+  icon:
+    tag:
+      novice: material/chevron-up
+      master: material/chevron-double-up
+      deadly: material/chevron-triple-up
+
+
 
   # features for all elements
   features:
@@ -63,14 +81,14 @@ theme:
     - content.tooltips
     - content.code.copy
     - content.code.annotate
+    - search.suggest
+    - search.highlight
+    - search.share
 
   # font formatting
   font:
     text: Quicksand
     code: Source Code Pro
-
-  icon:
-    annotation: material/alert-circle
 
   # Dark Palette
   palette:
@@ -122,3 +140,8 @@ nav:
 
 extra:
   generator: false
+
+  tags:
+    NOVICE: novice
+    MASTER: master
+    DEADLY: deadly

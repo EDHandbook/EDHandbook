@@ -8,7 +8,13 @@ Commander, welcome to Elite: Dangerous, and welcome to ED Handbook! Elite Danger
 
     ---
 
-    ![]()
+    Discover the galaxy in Elite: Dangerous Horizons.
 
 -   :octicons-feed-person-16:{ .lg .middle } __Odyssey__
+
+    ---
+
+    Discover the galaxy in Elite: Dangerous Odyssey.
+
+</div>
 
