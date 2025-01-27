@@ -40,7 +40,7 @@ jobs:
           username: 'sftpuser'
           server: '209.38.60.133'
           ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
-          local_path: './'
+          local_path: './site/'
           remote_path: 'html'
           sftp_only: true
           sftpArgs: '-o ConnectTimeout=5'
