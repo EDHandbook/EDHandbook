@@ -41,6 +41,6 @@ jobs:
           server: '209.38.60.133'
           ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
           local_path: './'
-          remote_path: '~/html'
+          remote_path: 'html'
           sftp_only: true
           sftpArgs: '-o ConnectTimeout=5'
