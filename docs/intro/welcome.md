@@ -1,4 +1,4 @@
-# Welcome to Elite: Dangerous
+# Getting Started
 
 Commander, welcome to Elite: Dangerous, and welcome to ED Handbook! Elite Dangerous is a vast sandbox with endless career paths and opportunities to take. Elite: Dangerous takes place in a 1:1 scale of our very own Milky Way galaxy. Let's figure out if you have Horizons or if you have the Odyssey DLC.
 

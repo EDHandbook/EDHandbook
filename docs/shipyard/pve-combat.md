@@ -73,23 +73,25 @@ This would be a short description about the build
 
 <div class="build-card" markdown>
 
+
+
 ### Federal Assault Ship Layout 2
 
 ![FederalAssaultShip](../assets/shipsvg/Assault Ship.svg)
 
-=== ":material-hexagon-outline: No Eng"
+=== ":material-hexagon-outline::material-hexagon-outline::material-hexagon-outline: Stock"
 
     Non Engineered features some basic outfitting principles, bi-weave shields, utility mounts and basic hardpoints for general combat. <br></br>
 
     [:material-open-in-new: ED Shipyard](https://edsy.org/#/L=IQ00000H4C0S00,mpUFBG00FBG00,,9p300AAo00AQQ00AeU00Au600B9I00BLo00Bb600,,7TM000720005U0005U00mpU0nG00){ .md-button }
 
-=== ":material-hexagon-slice-3: Tier 1 Eng"
+=== ":material-hexagon-outline::material-hexagon-slice-3::material-hexagon-slice-6: Tier 1"
 
     Partially engineered ship features access to basic tier 1 engineers. These ships are adequate for some light to medium combat activities. <br></br>
 
     [:material-open-in-new: ED Shipyard](https://edsy.org/#/L=IQ00000H4C0S00,mpUFBG00FBG00,,9p300AAo00AQQ00AeU00Au600B9I00BLo00Bb600,,7TM000720005U0005U00mpU0nG00){ .md-button }
 
-=== ":material-hexagon-slice-6: 100% Eng"
+=== ":material-hexagon-slice-6::material-hexagon-slice-6::material-hexagon-slice-6: Unlock"
 
     Fully engineered ships are optimized to bring out the ship's maximum potential. These builds can be unique to their combat activities focus. 
 
@@ -111,6 +113,7 @@ This would be a short description about the build
             - [x] Has these weapons that deal good penetrating damage.
             - [x] Can be exceptionally well built for Threat 4 mission-related signal sources.
             - [ ] May struggle with dealing with higher-threat assassination targets.
+
 
 </div>
 

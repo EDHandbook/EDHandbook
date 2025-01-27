@@ -13,6 +13,11 @@ markdown_extensions:
       line_spans: __span
       pygments_lang_class: true
 
+      # for annotations
+      use_pygments: true
+      noclasses: true
+      pygments_style: default
+
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
@@ -27,6 +32,9 @@ markdown_extensions:
 
   - pymdownx.tasklist:
       custom_checkbox: true
+
+  - toc: 
+      permalink: true
 
   # standalone
   - abbr
@@ -45,9 +53,6 @@ markdown_extensions:
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
-  - pymdownx.emoji:
-      emoji_index: !!python/name:material.extensions.emoji.twemoji
-      emoji_generator: !!python/name:material.extensions.emoji.to_svg
 
 plugins:
   - tags
@@ -102,7 +107,7 @@ nav:
     - Welcome: index.md
     - About: about.md
   - Getting Started: 
-    - Welcome: intro/welcome.md
+    - intro/welcome.md
     - Horizons: intro/edh.md
     - Odyssey: intro/edo.md
   - Tutorials:
