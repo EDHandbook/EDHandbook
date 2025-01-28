@@ -63,18 +63,8 @@ extra_css:
 
 theme:
   name: material
-
   annotation: material/alert-circle
-
-  # icons for tags
-  icon:
-    tag:
-      novice: material/chevron-up
-      master: material/chevron-double-up
-      deadly: material/chevron-triple-up
-
-
-
+  
   # features for all elements
   features:
     - navigation.instant
@@ -145,8 +135,3 @@ nav:
 
 extra:
   generator: false
-
-  tags:
-    NOVICE: novice
-    MASTER: master
-    DEADLY: deadly

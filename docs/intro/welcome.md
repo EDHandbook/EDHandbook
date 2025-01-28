@@ -1,18 +1,20 @@
 # Getting Started
 
-Commander, welcome to Elite: Dangerous, and welcome to ED Handbook! Elite Dangerous is a vast sandbox with endless career paths and opportunities to take. Elite: Dangerous takes place in a 1:1 scale of our very own Milky Way galaxy. Let's figure out if you have Horizons or if you have the Odyssey DLC.
+![The Milky Way Galaxy](../assets/images/milkyway_named.png)
+
+Welcome to the Galaxy of Elite Dangerous. The setting is in the year 3310, in a near 1:1 recreation of our milky-way galaxy in model and scale. Luckily, space travel has advanced considerably to travel those vast distances. To the point that intermittent space and hyperspace jumps take mere minutes to traverse.
 
 <div class="grid cards" markdown>
 
--   :octicons-feed-rocket-16:{ .lg .middle } __Horizons__
+-   :octicons-feed-rocket-16: &nbsp; __[ED Horizons 4.0](edh.md)__
 
-    ---
+    ![Horizons](../assets/images/edh_banner.png)
 
     Discover the galaxy in Elite: Dangerous Horizons.
 
--   :octicons-feed-person-16:{ .lg .middle } __Odyssey__
+-   :octicons-feed-person-16:&nbsp; __[ED Odyssey 4.0](edo.md)__
 
-    ---
+    ![Odyssey](../assets/images/edo_banner.png)
 
     Discover the galaxy in Elite: Dangerous Odyssey.
 

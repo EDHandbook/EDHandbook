@@ -73,11 +73,10 @@ This would be a short description about the build
 
 <div class="build-card" markdown>
 
-
-
 ### Federal Assault Ship Layout 2
 
-![FederalAssaultShip](../assets/shipsvg/Assault Ship.svg)
+![FederalAssaultShip](../assets/shipsvg/Assault Ship.svg){.build-image}
+{.build-image-paragraph}
 
 === ":material-hexagon-outline::material-hexagon-outline::material-hexagon-outline: Stock"
 
