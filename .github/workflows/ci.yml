@@ -2,6 +2,10 @@ name: CI/CD
 on:
   push:
     branches: [main]
+  pull_request:
+    branches: [main]
+    types:
+      - closed
   release:
     types: [published]
 permissions:
