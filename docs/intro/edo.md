@@ -2,6 +2,8 @@
 
     You will need to have Elite: Dangerous' only DLC, Odyssey bought and installed in order to start the game in Elite: Dangerous Odyssey version.
 
+![OdysseyRingsBanner](../assets/images/odyssey_background.png)
+
 # Welcome to Odyssey
 
 Welcome to Elite: Dangerous Odyssey. This is the expansion package for on-foot content in the game, Elite: Dangerous. Let's look at the first steps you will take as a commander with on-foot access. The game puts you into their [Holo Me]() character builder. (1) 
