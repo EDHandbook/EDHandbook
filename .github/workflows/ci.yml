@@ -30,7 +30,19 @@ jobs:
   deploy-github-pages:
     runs-on: ubuntu-latest
     needs: build
-    steps:                
+    steps:
+      - name: Load Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: 3.x
+      - name: Setup cache
+        uses: actions/cache@v3
+        with:
+          key: mkdocs-material-${{ env.cache_id }}
+          path: .cache
+          restore-keys: mkdocs-material-
+      - name: Load MKDocs Material
+        run: pip install mkdocs-material 
       - name: Deploy to GitHub Pages
         run: mkdocs gh-deploy --force
 
