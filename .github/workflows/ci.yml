@@ -3,22 +3,49 @@ on:
   push:
     branches:
       - main 
+    tags:
+      - v*
 permissions:
   contents: write
 jobs:
   deploy:
     runs-on: ubuntu-latest
-    steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v4
+    outputs:
+      istaggedrelease: ${{ steps.isTaggedRelease.outputs.test }}
+    steps:          
+      - name: Checkout
+        uses: actions/checkout@v4
+      
+      - name: Load Python
+        uses: actions/setup-python@v4
         with:
           python-version: 3.x
-      - run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
-      - uses: actions/cache@v3
+          
+      - name: Show cache info
+        run: echo "cache_id=$(date --utc '+%V')" >> $GITHUB_ENV 
+      
+      - name: Setup cache
+        uses: actions/cache@v3
         with:
           key: mkdocs-material-${{ env.cache_id }}
           path: .cache
           restore-keys: |
             mkdocs-material-
-      - run: pip install mkdocs-material 
-      - run: mkdocs gh-deploy --force
+            
+      - name: Load MKDocs Material
+        run: pip install mkdocs-material 
+      
+      - name: Deploy to GitHub Pages
+        run: mkdocs gh-deploy --force
+
+      - name: Deploy to Digital Ocean droplet
+        uses: wlixcc/SFTP-Deploy-Action@v1.2.5
+        if: ${{ ! startsWith(github.ref, 'refs/tags/v') }}
+        with:
+          username: 'sftpuser'
+          server: '209.38.60.133'
+          ssh_private_key: ${{ secrets.SSH_PRIVATE_KEY }}
+          local_path: './site/*'
+          remote_path: 'html'
+          sftp_only: true
+          sftpArgs: '-o ConnectTimeout=5'
