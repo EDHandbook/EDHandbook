@@ -48,3 +48,8 @@ p.build-image-paragraph{
     display: flex;
     justify-content: center;
 }
+
+.image-captions{
+    text-align: center;
+    font-size: 0.5em;
+}
