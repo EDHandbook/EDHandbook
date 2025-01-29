@@ -248,7 +248,7 @@ Now you have your personal loadouts and some handheld weapons, you can customize
 
 <div class="grid" markdown>
 
-![Station Computer Loadout](../assets/imageswelcomeguides//stationcomputerui.png) 
+![Station Computer Loadout](../assets/images/welcomeguides/stationcomputerui.png) 
 
 ![Ship Role Loadout Panel](../assets/images/welcomeguides/shiploadoutui.png)
 
