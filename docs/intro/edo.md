@@ -133,3 +133,42 @@ Every station will have a lounge area. In Elite: Dangerous, we call it the "conc
             ![](../assets/images/negotiation_info.png)
 
             The amount of negotiation play depends on your reputation with that personnel's faction. The higher the reputation, the more negotiating room you will have with this mission giver. If the negotation fails, the mission giver will not offer anymore missions for a while. Negotations will affect pay, reputation, rewards and rank up.
+
+</div>
+
+## Personal Loadout & Equipment
+
+For Odyssey, you will be given a basic flight suit and a weapon as your very basic loadout. You may purchase more specialized suits from any stations with a Pioneer Supplies market. There are three suits available to you to purchase, and a total of 11 kinds of weapons. 
+
+### Suits
+
+<div class="grid cards" markdown>
+
+- 
+
+    === "Flight Suit"
+
+        ![Flight Suit](../assets/images/suitposters/flight_poster.png)
+
+        Flight suits are a very basic non-engineerable suit that pilots in Horizons will wear, along with the basic suit given to you at the very beginning of the game. There is nothing unique about this suit, other than it is worn by players who do not have Odyssey and can be cosmetically altered.
+
+    === "Maverick Suit"
+
+        ![Maverick Suit](../assets/images/suitposters/maverick_poster.png)
+
+        Maverick suit is useful for salvaging materials from settlements and planetary points of interests. The Maverick suit has the largest carrying capacity, along with a special suit tool called the "Arc Cutter". The Arc Cutter is able to cut through access panels, and open locked crates with a red lock. The Maverick suit should be one of the first suits you should be considering to get as it's utilitarian versatility is great.
+
+    === "Artemis Suit"
+
+        ![Artemis Suit](../assets/images/suitposters/artemis_poster.png)
+
+        If you are a keen explorer and you wish to go out and explore the galaxy on foot, then the Artemis Suit is a great option for you. It's life support and power consumption are the best out of the 4 suits making it a great suit to wear for exploring surfaces of planets for long term. The Artemis suit also comes with the Genetic Sampler, used to collect organic exobiology matter. Exobiology is one of the higher paying activities for early-game access.
+
+    === "Dominator Suit"
+
+        ![Dominator Suit](../assets/images/suitposters/dominator_poster.png)
+
+        The Dominator suit, as the name suggests, is a combat-oriented suit. It does not have a suit-specific tool, but rather a carrying capacity for an extra secondary weapon. Dominator suits have the best armor and shield stats out of all 4 suits, making it a force to be reckoned with. This suit also has the highest consumeable carrying limit of any suits, making it a very heavy suit to move in.
+
+</div>
+

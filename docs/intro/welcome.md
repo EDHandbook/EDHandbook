@@ -16,7 +16,7 @@ Welcome to the Galaxy of Elite Dangerous. The setting is in the year 3310, in a 
 
     ![Odyssey](../assets/images/edo_poster.png)
 
-    [:octicons-link-external-16:&nbsp; Start in Elite: Dangerous Odyssey.](../intro/edh.md)
+    [:octicons-link-external-16:&nbsp; Start in Elite: Dangerous Odyssey.](../intro/edo.md)
 
 </div>
 
