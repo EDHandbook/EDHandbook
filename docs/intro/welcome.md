@@ -1,4 +1,4 @@
-![The Milky Way Galaxy](../assets/images/milkyway_poster.png)
+![The Milky Way Galaxy](../assets/images/welcomeguides/milkyway_poster.png)
 
 # Getting Started
 
@@ -8,13 +8,13 @@ Welcome to the Galaxy of Elite Dangerous. The setting is in the year 3310, in a 
 
 -   
 
-    ![Horizons](../assets/images/edh_poster.png)
+    ![Horizons](../assets/images/welcomeguides/edh_poster.png)
 
     [:octicons-link-external-16:&nbsp; Start in Elite: Dangerous Horizons.](../intro/edh.md)
 
 -   
 
-    ![Odyssey](../assets/images/edo_poster.png)
+    ![Odyssey](../assets/images/welcomeguides/edo_poster.png)
 
     [:octicons-link-external-16:&nbsp; Start in Elite: Dangerous Odyssey.](../intro/edo.md)
 

@@ -2,7 +2,7 @@
 
     You will need to have Elite Dangerous' only DLC, Odyssey bought and installed in order to start the game in Elite Dangerous Odyssey version.
 
-![OdysseyRingsBanner](../assets/images/odyssey_background.png)
+![OdysseyRingsBanner](../assets/images/welcomeguides/odyssey_background.png)
 
 # Welcome to Odyssey
 
@@ -22,7 +22,7 @@ Chamberlain's Rest is a planetary starport in the system HIP 97950. This will be
 
 ### Looking around the Station
 
-![Concourse](../assets/images/concourse.png)
+![Concourse](../assets/images/welcomeguides/concourse.png)
 
 Every station will have a lounge area. In Elite Dangerous, we call it the "concourse". You'll notice for Chamberlain's Rest, there is an upper section, and a lower section with different shops and services. Let's take a look around the station.
 
@@ -34,13 +34,13 @@ Every station will have a lounge area. In Elite Dangerous, we call it the "conco
 
     === "Elevators to Shipyard"
 
-        ![Hanger Elevators](../assets/images/elevator_poster.png)
+        ![Hanger Elevators](../assets/images/welcomeguides/elevator_poster.png)
 
         At the very back of the concourse area, you will see tube-like doors. These are elevators that accesses your ships. It is also the accessway when disembarking from the hanger bay to the concourse. 
 
     === "Apex Interstellar"
 
-        ![Apex Services](../assets/images/apex_poster.png)
+        ![Apex Services](../assets/images/welcomeguides/apex_poster.png)
 
         Directly in front of you from the elevators, you will see a service shop on your left. This is the Apex Interstellar, a limited taxi service by demand, that is able to shuttle you between stations within the same system, or shuttle you to a destination in another populated system. 
 
@@ -50,7 +50,7 @@ Every station will have a lounge area. In Elite Dangerous, we call it the "conco
 
     === "Frontline Solutions"
 
-        ![Frontline Services](../assets/images/frontline_poster.png)
+        ![Frontline Services](../assets/images/welcomeguides/frontline_poster.png)
 
         Frontline Solutions are a free-lance enlistment service that fulfills contracts by having the player enlist in joining a side if the system is experiencing a conflict between two factions. Frontier Solutions will fly out dropships to settlements in conflict, redeploy the player is they sustain critical injuries on the battelfield, and then fly back to the station.
 
@@ -68,7 +68,7 @@ Every station will have a lounge area. In Elite Dangerous, we call it the "conco
     
     === "Pioneer Supplies"
 
-        ![Pioneer Services](../assets/images/pioneer_poster.png)
+        ![Pioneer Services](../assets/images/welcomeguides/pioneer_poster.png)
 
         Pioneer Supplies is a market service where you are able to purchase weapons and suits. This is located near the bottom of the left staircase of the concourse. This is where you can buy fancy suits and weapons.
     
@@ -81,7 +81,7 @@ Every station will have a lounge area. In Elite Dangerous, we call it the "conco
 
     === "Inter Astra"
 
-        ![Shipyard Services](../assets/images/interastra_poster.png)
+        ![Shipyard Services](../assets/images/welcomeguides/interastra_poster.png)
 
         Inter Astra is the service where you are able to make ship purchases, recall stored ships and call ships stored in other stations by administering deliveries. This service is located near the middle of the concourse. 
     
@@ -89,7 +89,7 @@ Every station will have a lounge area. In Elite Dangerous, we call it the "conco
 
     === "Bartender"
 
-        ![Bartender Services](../assets/images/bartender_poster.png)
+        ![Bartender Services](../assets/images/welcomeguides/bartender_poster.png)
 
         Towards the middle of the concourse, you will see a bar. The bar will not serve you drinks, but instead, they will offer to trade materials that you have gathered. (1)
         {.annotate}
@@ -98,7 +98,7 @@ Every station will have a lounge area. In Elite Dangerous, we call it the "conco
 
     === "Vista Genomics"
 
-        ![Genomics Services](../assets/images/genomics_poster.png)
+        ![Genomics Services](../assets/images/welcomeguides/genomics_poster.png)
 
         Towards the opposite side of the Pioneer Supplies, you will see a service called Vista Genomics. Vista Genomics is a service to sell exobiology organic data samples. You will need an Artemis Suit to sample organic exobiology data.
 
@@ -112,13 +112,13 @@ Every station will have a lounge area. In Elite Dangerous, we call it the "conco
     
     === "Station Computers"
 
-        ![Computer Utilities](../assets/images/computer_poster.png)
+        ![Computer Utilities](../assets/images/welcomeguides/computer_poster.png)
 
         Station Computers are a great way of accessing the system's factions and their missions, station services such as administrative contacts and accessing personal suit and weapon loadouts.
 
         ??? info "Computer Menu"
 
-            ![Station Menus](../assets/images/stationmenu_info.png)
+            ![Station Menus](../assets/images/welcomeguides/stationmenu_info.png)
 
             * **Mission Board** provides you a list of available missions for all factions based on reputation, threat level and mission type. Missions that are completed can be collected from the Completed Missions tab.
             * **Administrative Contacts** allows you to pay off fines and bounties you may incur while exploring a system, there may be stations with interstellar factors where you are able to pay off any fine or bounty at a premium.
@@ -126,13 +126,13 @@ Every station will have a lounge area. In Elite Dangerous, we call it the "conco
 
     === "Mission Givers"
 
-        ![Mission Personnel](../assets/images/missiongiver_poster.png)
+        ![Mission Personnel](../assets/images/welcomeguides/missiongiver_poster.png)
 
         Mission Givers are unique personnel that gives missions however you may negotiate rewards, threat level access and mission objectives. 
 
         ??? info "Negotating a Mission"
 
-            ![](../assets/images/negotiation_info.png)
+            ![](../assets/images/welcomeguides/negotiation_info.png)
 
             The amount of negotiation play depends on your reputation with that personnel's faction. The higher the reputation, the more negotiating room you will have with this mission giver. If the negotation fails, the mission giver will not offer anymore missions for a while. Negotations will affect pay, reputation, rewards and rank up.
 
@@ -152,7 +152,7 @@ For Odyssey, you will be given a basic flight suit and a weapon as your very bas
 
     === "Flight Suit"
 
-        ![Flight Suit](../assets/images/layoutposters/flight_poster.png)
+        ![Flight Suit](../assets/images/welcomeguides/layoutposters/flight_poster.png)
 
         Flight suits are a very basic non-engineerable suit that pilots in Horizons will wear, along with the basic suit given to you at the very beginning of the game. There is nothing unique about this suit, other than it is worn by players who do not have Odyssey and can be cosmetically altered. (1)
         {.annotate}
@@ -161,19 +161,19 @@ For Odyssey, you will be given a basic flight suit and a weapon as your very bas
 
     === "Maverick Suit"
 
-        ![Maverick Suit](../assets/images/layoutposters/maverick_poster.png)
+        ![Maverick Suit](../assets/images/welcomeguides/layoutposters/maverick_poster.png)
 
         Maverick suit is useful for salvaging materials from settlements and planetary points of interests. The Maverick suit has the largest carrying capacity, along with a special suit tool called the "Arc Cutter". The Arc Cutter is able to cut through access panels, and open locked crates with a red lock. The Maverick suit should be one of the first suits you should be considering to get as it's utilitarian versatility is great.
 
     === "Artemis Suit"
 
-        ![Artemis Suit](../assets/images/layoutposters/artemis_poster.png)
+        ![Artemis Suit](../assets/images/welcomeguides/layoutposters/artemis_poster.png)
 
         If you are a keen explorer and you wish to go out and explore the galaxy on foot, then the Artemis Suit is a great option for you. It's life support and power consumption are the best out of the 4 suits making it a great suit to wear for exploring surfaces of planets for long term. The Artemis suit also comes with the Genetic Sampler, used to collect organic exobiology matter. Exobiology is one of the higher paying activities for early-game access.
 
     === "Dominator Suit"
 
-        ![Dominator Suit](../assets/images/layoutposters/dominator_poster.png)
+        ![Dominator Suit](../assets/images/welcomeguides/layoutposters/dominator_poster.png)
 
         The Dominator suit, as the name suggests, is a combat-oriented suit. It does not have a suit-specific tool, but rather a carrying capacity for an extra secondary weapon. Dominator suits have the best armor and shield stats out of all 4 suits, making it a force to be reckoned with. This suit also has the highest consumeable carrying limit of any suits, making it a very heavy suit to move in.
 
@@ -188,7 +188,7 @@ For Odyssey, you will be given a basic flight suit and a weapon as your very bas
 
     === "Kinematic Armaments"
 
-        ![Kinematic Armaments](../assets/images/layoutposters/kinematic_poster.png)
+        ![Kinematic Armaments](../assets/images/welcomeguides/layoutposters/kinematic_poster.png)
 
         Kinematic Armaments is the brand for all kinetic and explosive type handheld weapon.
 
@@ -199,7 +199,7 @@ For Odyssey, you will be given a basic flight suit and a weapon as your very bas
 
     === "Takeda"
 
-        ![Takeda](../assets/images/layoutposters/takeda_poster.png)
+        ![Takeda](../assets/images/welcomeguides/layoutposters/takeda_poster.png)
 
         Takeda is the brand for all thermal type handheld weapon.
 
@@ -209,7 +209,7 @@ For Odyssey, you will be given a basic flight suit and a weapon as your very bas
 
     === "Manticore"
 
-        ![Manticore](../assets/images/layoutposters/manticore_poster.png)
+        ![Manticore](../assets/images/welcomeguides/layoutposters/manticore_poster.png)
 
         Manticore is the brand for all plasma type handheld weapon.
 
@@ -248,9 +248,9 @@ Now you have your personal loadouts and some handheld weapons, you can customize
 
 <div class="grid" markdown>
 
-![Station Computer Loadout](../assets/images/stationcomputerui.png) 
+![Station Computer Loadout](../assets/imageswelcomeguides//stationcomputerui.png) 
 
-![Ship Role Loadout Panel](../assets/images/shiploadoutui.png)
+![Ship Role Loadout Panel](../assets/images/welcomeguides/shiploadoutui.png)
 
 </div>
 
@@ -259,7 +259,7 @@ Now you have your personal loadouts and some handheld weapons, you can customize
 
 Alright, we have covered about concourse and its services, your suits and handheld weapons, let's look at some early access activities that is recommended for new Odyssey commanders. There are three paths one can take on, however you are not limited to taking only these three paths. 
 
-![Early Game Content](../assets/images/earlygamecontent.png)
+![Early Game Content](../assets/images/welcomeguides/earlygamecontent.png)
 
 * You can go and jump start in Exobiology. Exobiology is one of the more lucrative money-making activities for early access gameplay. All you need is a Artemis suit and a jump-capable ship. 
 * You can purchase a Maverick suit and take on Restoration missions. Restoration missions's object is to power on an abandoned settlement. You are given level 3 access to all buildings in the settlement and therefore you can loot any materials left in this settlement at no risk of being caught.

@@ -100,8 +100,9 @@ nav:
     - intro/welcome.md
     - Horizons: intro/edh.md
     - Odyssey: intro/edo.md
+  - Engineering:
+    - engineering/engineering.md
   - Tutorials:
-    - Engineering: tutorials/engineering.md
     - Careers:
       - Combat: tutorials/careers/combat.md
   - Shipyard:
