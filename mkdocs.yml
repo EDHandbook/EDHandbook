@@ -105,6 +105,7 @@ nav:
   - Tutorials:
     - Careers:
       - Combat: tutorials/careers/combat.md
+      - Exploration: tutorials/careers/exploration.md
   - Shipyard:
     - Overview: shipyard/overview.md
     - PvE Combat: shipyard/pve-combat.md
