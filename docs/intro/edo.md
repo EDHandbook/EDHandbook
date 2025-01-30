@@ -6,15 +6,15 @@
 
 # Welcome to Odyssey
 
-Welcome to Elite Dangerous Odyssey. This is the expansion package for on-foot content in the game, Elite Dangerous. Let's look at the first steps you will take as a commander with on-foot access. The game puts you into their [Holo Me]() character builder. (1) 
+Welcome to Elite Dangerous Odyssey. This is the expansion package for on-foot content in the game, Elite Dangerous. Let's look at the first steps you will take as a commander with on-foot access. The game puts you into their [Holo Me]() character builder.(1) 
 {.annotate}
 
 1.  ![Holo Me Saves](https://media.discordapp.net/attachments/1255311783044841515/1333621262018416692/image.png?ex=67998f16&is=67983d96&hm=f3b16b215b0030da8fcd40d008f452fed8a465a9adb2a4ebf4ffc8231b2b57f9&=&format=webp&quality=lossless&width=1179&height=663) <br></br> Just note that Holo Me characters do not correspond to individual commander save files. You can have multiple Holo Me characters loadouts for one individual commander save file. 
 
-The game will then put you into their tutorial gameplay. It is not necessary to complete this tutorial, but you will learn how to use some very basic gameplay mechanics. After completing this tutorial, or being absolutely confident in your First Person Shooter abilities and skipping the tutorial, the game will put you in a station called [Chamberlain's Rest]() in the [HIP 97950]() system. The game will loan you a free Sidewinder ship to start with. (1)
+The game will then put you into their tutorial gameplay. It is not necessary to complete this tutorial, but you will learn how to use some very basic gameplay mechanics. After completing this tutorial, or being absolutely confident in your First Person Shooter abilities and skipping the tutorial, the game will put you in a station called [Chamberlain's Rest]() in the [HIP 97950]() system. The game will loan you a free Sidewinder ship to start with.(1)
 {.annotate}
 
-1. ![Prebuilt Ships](https://media.discordapp.net/attachments/1255311783044841515/1332467905408798740/image.png?ex=67995170&is=6797fff0&hm=b39dc8f16440c0fe3ff6348c098144fad9030a5b3e174ece3137574738771ea4&=&format=webp&quality=lossless&width=1179&height=663) <br></br> The game will also give you the options of [pre-built ships]() which instead of spending in-game currency, you can buy these pre-built ships with ARX currency. ARX is a cosmetic currency that is earned passively in the game by doing activities, or it can be purchased with money from the game's ARX store. 
+1. ![Prebuilt Ships](https://media.discordapp.net/attachments/1255311783044841515/1332467905408798740/image.png?ex=679c9d30&is=679b4bb0&hm=077abf43fbf7dff93358b65e384d54c99d1411cb1f1bfb478d9688c9860cab2c&=&format=webp&quality=lossless&width=1202&height=676) <br></br> The game will also give you the options of [pre-built ships]() which instead of spending in-game currency, you can buy these pre-built ships with ARX currency. ARX is a cosmetic currency that is earned passively in the game by doing activities, or it can be purchased with money from the game's ARX store. 
 
 ## Chamberlain's Rest, HIP 97950
 
@@ -72,7 +72,7 @@ Every station will have a lounge area. In Elite Dangerous, we call it the "conco
 
         Pioneer Supplies is a market service where you are able to purchase weapons and suits. This is located near the bottom of the left staircase of the concourse. This is where you can buy fancy suits and weapons.
     
-        This is where you are able to buy consumeables (1) as well. You may also be able to find rare and unique, pre-engineered or upgraded suits from other stations. (2) Pioneer Supplies will also be able to upgrade your suit and weapons, provided that you have sufficient materials gathered for each grade upgrade.
+        This is where you are able to buy consumeables(1)as well. You may also be able to find rare and unique, pre-engineered or upgraded suits from other stations.(2)Pioneer Supplies will also be able to upgrade your suit and weapons, provided that you have sufficient materials gathered for each grade upgrade.
         {.annotate}
 
         1.  Consumeables such as; [Health Packs, Energy Packs, Grenades and E-breaches](#consumeables) can be purchased here. 
@@ -91,7 +91,7 @@ Every station will have a lounge area. In Elite Dangerous, we call it the "conco
 
         ![Bartender Services](../assets/images/welcomeguides/bartender_poster.png)
 
-        Towards the middle of the concourse, you will see a bar. The bar will not serve you drinks, but instead, they will offer to trade materials that you have gathered. (1)
+        Towards the middle of the concourse, you will see a bar. The bar will not serve you drinks, but instead, they will offer to trade materials that you have gathered.(1)
         {.annotate}
 
         1.  Assets that you gathered can only be traded for other assets. Goods and Data can only be sold for credits. 
@@ -154,7 +154,7 @@ For Odyssey, you will be given a basic flight suit and a weapon as your very bas
 
         ![Flight Suit](../assets/images/welcomeguides/layoutposters/flight_poster.png)
 
-        Flight suits are a very basic non-engineerable suit that pilots in Horizons will wear, along with the basic suit given to you at the very beginning of the game. There is nothing unique about this suit, other than it is worn by players who do not have Odyssey and can be cosmetically altered. (1)
+        Flight suits are a very basic non-engineerable suit that pilots in Horizons will wear, along with the basic suit given to you at the very beginning of the game. There is nothing unique about this suit, other than it is worn by players who do not have Odyssey and can be cosmetically altered.(1)
         {.annotate}
 
         1.  You cannot purchase additional flight suits. You will only be given one Flight Suit per CMDR save file.

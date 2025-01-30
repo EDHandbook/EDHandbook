@@ -12,53 +12,30 @@ Here are 8 resources to help with materials collection for engineering.
 
 <div class="grid cards" markdown>
 
--   [:octicons-link-external-16:&nbsp;Raw Materials](#)
+-   [:octicons-link-external-16:&nbsp;Raw Materials](../engineering/collection/rawmats.md)
 
-    --- 
 
-    Lorem Ipsum...
+-   [:octicons-link-external-16:&nbsp;Manufactured Materials](../engineering/collection/manufacturedmats.md)
 
--   [:octicons-link-external-16:&nbsp;Manufactured Materials](#)
 
-    --- 
+-   [:octicons-link-external-16:&nbsp;Encoded Materials](../engineering/collection/encodedmats.md)
 
-    Lorem Ipsum...
 
--   [:octicons-link-external-16:&nbsp;Encoded Materials](#)
+-   [:octicons-link-external-16:&nbsp;Guardian Materials](../engineering/collection/guardianmats.md)
 
-    --- 
 
-    Lorem Ipsum...
+-   [:octicons-link-external-16:&nbsp;Thargoid Materials](../engineering/collection/thargoidmats.md)
 
--   [:octicons-link-external-16:&nbsp;Guardian Materials](#)
 
-    --- 
+-   [:octicons-link-external-16:&nbsp;Odyssey Materials](../engineering/collection/odysseymats.md)
 
-    Lorem Ipsum...
 
--   [:octicons-link-external-16:&nbsp;Thargoid Materials](#)
+-   [:octicons-link-external-16:&nbsp;Materials Trading](../engineering/collection/matstrader.md)
 
-    --- 
 
-    Lorem Ipsum...
+-   [:octicons-link-external-16:&nbsp;Engineering Commodities](../engineering/collection/commoditymats.md)
 
--   [:octicons-link-external-16:&nbsp;Odyssey Materials](#)
 
-    --- 
-
-    Lorem Ipsum...
-
--   [:octicons-link-external-16:&nbsp;Materials Trading](#)
-
-    --- 
-
-    Lorem Ipsum...
-
--   [:octicons-link-external-16:&nbsp;Engineering Commodities](#)
-
-    --- 
-
-    Lorem Ipsum...
 
 </div>
 
@@ -85,4 +62,3 @@ Let's look into how to unlock engineers, as each engineer has a different set of
 ## Applying Modifications
 
 <div class="grid cards" markdown>
-

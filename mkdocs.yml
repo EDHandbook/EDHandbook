@@ -102,6 +102,22 @@ nav:
     - Odyssey: intro/edo.md
   - Engineering:
     - engineering/engineering.md
+    - Collection:
+      - Raw Materials: engineering/collection/rawmats.md
+      - Manufactured Materials: engineering/collection/manufacturedmats.md
+      - Encoded Materials: engineering/collection/encodedmats.md
+      - Guardian Materials: engineering/collection/guardianmats.md
+      - Thargoid Materials: engineering/collection/thargoidmats.md
+      - Odyssey Materials: engineering/collection/odysseymats.md
+      - Materials Trader: engineering/collection/matstrader.md
+      - Engineering Commodities: engineering/collection/commoditymats.md
+    - Engineers:
+      - Horizon Engineers: engineering/engineers/horizons-engineers.md
+      - Odyssey Engineers: engineering/engineers/odyssey-engineers.md
+    - Modifications:
+      - Ship Modifications: engineering/modification/horizons-mods.md
+      - Equipment Modifications: engineering/modification/odyssey-mods.md
+    
   - Tutorials:
     - Careers:
       - Combat: tutorials/careers/combat.md
