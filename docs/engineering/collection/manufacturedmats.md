@@ -1,3 +1,5 @@
+![Manufactured Banner](../images/manufactured/manufactured_banner.png)
+
 # Manufactured Materials
 
 Manufactured materials as the name suggests, are a category of materials commonly found from salvage signal sources, can be obtained from destroying other ships, and can be obtained as a mission reward. As of late, engineering has been given an update(1)in that high grade materials can be obtained in abundance.
@@ -6,6 +8,8 @@ Manufactured materials as the name suggests, are a category of materials commonl
 1.  This QoL update is only available for Live 4.0 servers. Legacy 3.8 servers does not get this update. 
 
 ## High Grade Emissions
+
+![High Grade Emissions](../images/manufactured/manufacturedhge.png)
 
 High Grade Emissions are signal sources that generate in any populated systems.(2)High Grades yeild most high-grade manufactured materials, except for Biotech Components and Exquisite Focus Crystals, both of which are only obtained as mission rewards.(1)
 {.annotate}
@@ -29,6 +33,8 @@ High Grade Emissions are signal sources that generate in any populated systems.(
 | Equisite Focus Crystals | N/a | N/a | Only Obtained from Rewards |
 
 ## Abandoned Sites
+
+![Dav's Hope](../images/manufactured/manufactureddavshope.png)
 
 This is the legacy method of collecting Manufactured materials. Although it is commonly referred by players in the community for being openly accessible to all, it is a very inefficient as low to medium grade materials are collected. Completing missions and scouting for High Grades are generally preferred over this method.
 

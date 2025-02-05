@@ -106,7 +106,9 @@ nav:
       - Raw Materials: engineering/collection/rawmats.md
       - Manufactured Materials: engineering/collection/manufacturedmats.md
       - Encoded Materials: engineering/collection/encodedmats.md
-      - Guardian Materials: engineering/collection/guardianmats.md
+      - Guardian Materials: 
+        - Guardian Materials: engineering/collection/guardianmats.md
+        - Guardian Blueprint: engineering/collection/guardianblueprint.md
       - Thargoid Materials: engineering/collection/thargoidmats.md
       - Odyssey Materials: engineering/collection/odysseymats.md
       - Materials Trader: engineering/collection/matstrader.md

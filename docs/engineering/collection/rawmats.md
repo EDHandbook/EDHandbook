@@ -1,13 +1,16 @@
-???+ failure "Game Compatibility"
+??? failure "Game Compatibility"
 
     Raw Materials in Live 4.0 servers have changed significantly to what they show up in Legacy 3.8 servers. Raw materials do not show up as biological signals in Live 4.0 servers as biological signals in Odyssey have correlated to amount of biodiversities that a planet has. And so therefore, Raw Materials in Live 4.0 servers are discovered by the use of planetary coordinates. 
 
+![Raw Banner](../images/raw/raw_banner.png)
 
 # Raw Materials
 
 Raw Materials can be collected from Organic matter, usually found as biological excretions and geological protrusions. 
 
 ## Crystal Shards
+
+![Crystal Shards](../images/raw/rawcrystalshards.png)
 
 An abundance of guaranteed high-grade materials can be obtained from Crystal Shards from the Crystalline Gardens, however they are some 1,600 light years away in the direction of Barnard's Loop. 
 
@@ -199,6 +202,8 @@ An abundance of guaranteed high-grade materials can be obtained from Crystal Sha
             
 ## Brain Trees
 
+![Brain Trees](../images/raw/rawbraintrees.png)
+
 Alternatively, Brain Trees, local to Guardian space, are another place to collect high-grade materials from. Although these drops are commonly shared with mid-grade materials, the consistent drop of High Grade raw materials aren't guaranteed. 
 
 Although the location of each brain tree spot is not tightly clustered together like how the crystal gardens are, they are closer and does not require the player to take a specific path to avoid any Permit Locked Regions. 
@@ -317,6 +322,8 @@ Although the location of each brain tree spot is not tightly clustered together 
 
     </div>
 
+## Selenium Raw Material Drops
+
 !!! bug "Selenium"
 
     When Frontier added in Selenium they accidently made it as a Grade 2 rarity material instead of a Grade 4 rarity material. Therefore it doesn't spawn like the other Crystal Shard options, it spawns with other G2, G3 materials, more commonly found on Brain Trees.
@@ -382,6 +389,8 @@ Although the location of each brain tree spot is not tightly clustered together 
     </div>
 
 ## Bug Killer Site
+
+![Bug Killer](../images/raw/rawbughunter.png)
 
 The Bug Killer is a surface point of interest where two crashed Anacondas and a crashed Thargoid interceptor can be found. Scattered within the vicinity are Cargo Racks, which can yeild a selection of higher grade raw materials when destroyed.
 
