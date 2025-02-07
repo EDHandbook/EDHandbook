@@ -1,5 +1,5 @@
 
-??? warning "Unobtainable Thargoid Materials"
+??? failure "Unobtainable Thargoid Materials"
 
     There are some unobtainable thargoid materials due to the completion of the Thargoid War. Currently, there are no activities or sources that generate the materials. 
 
@@ -88,11 +88,11 @@ There are two Thargoid-related commodities that are useful for you. These are th
 
     Meta Alloys are found on surface sites like [Thargoid Structure Sites](https://docs.google.com/spreadsheets/d/1G79y2Sg-7lU8BDIpM_N0-mnS6BFqhe4va648J1wwnag/edit?usp=sharing) and [Barnacle Forests](https://docs.google.com/spreadsheets/d/1giHvc1SISUcD7BPKjlbutkuwPrWQwHuSxnBwQ3MPQME/edit?usp=sharing). These Thargoid-related commodities is used to unlock Felicity Farseer, a tier 1 propulsion specialized engineer. Meta Alloys can also be purchased for credits from players with Fleet Carriers. 
 
--   __Unclassified Relics__
+-   [__Unclassified Relics__](../collection/thargoidgrelic.md)
 
     ---
 
-    ![Unclassified Relics](#)
+    ![Unclassified Relics](../images/thargoid/thargoidgrelic.png)
 
     After the Proteus Wave incident in HIP 22460, a new Guardian-Thargoid hybrid relic can be obtained by processing Guardian relics in any active Thargoid Structures. These unclassified relics cannot be sold on any market, however it can be used to bypass all prior meeting requirement and unlocking both Professor Palin and Ram Tah. 
 

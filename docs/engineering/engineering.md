@@ -30,12 +30,22 @@ Here are 8 resources to help with materials collection for engineering.
 -   [:octicons-link-external-16:&nbsp;Odyssey Materials](../engineering/collection/odysseymats.md)
 
 
--   [:octicons-link-external-16:&nbsp;Materials Trading](../engineering/collection/matstrader.md)
+</div>
 
+<div class="grid cards" markdown>
 
 -   [:octicons-link-external-16:&nbsp;Engineering Commodities](../engineering/collection/commoditymats.md)
 
+</div>
 
+## Material Dealer Services
+
+<div class="grid cards" markdown>
+
+-   [:octicons-link-external-16:&nbsp;Materials Trading](../engineering/collection/matstrader.md)
+
+
+-   [:octicons-link-external-16:&nbsp;Technology Broker](../engineering/collection/techbrokers.md)
 
 </div>
 

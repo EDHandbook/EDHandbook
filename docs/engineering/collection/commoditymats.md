@@ -1,8 +1,12 @@
+![Commodities Banner](../images/techbroker/commodities_banner.png)
+
 # Engineering Commodities
 
 With Engineers, there are a list of commodities that are used to unlock engineers, used in unlocking recipes for experimental modules.
 
 ## Required Rare Goods
+
+![Cutter Traders](../images/techbroker/commoditytrader.png)
 
 Rare goods are commodities that are sold in limited quantities and are only available at specific locations.
 
@@ -17,6 +21,8 @@ Rare goods are commodities that are sold in limited quantities and are only avai
 
 ## Mined Minerals & Metals
 
+![Cutter in Asteroid Belt](../images/techbroker/techcuttermining.png)
+
 Mined minerals & metals are obtained through mining. These materials cannot be purchased from commodity markets.
 
 | Commodity | Category | Source |
@@ -26,6 +32,8 @@ Mined minerals & metals are obtained through mining. These materials cannot be p
 | Painite | Mineral | Metal Rich & Metallic Rings |
 
 ## Market & Mission Rewards
+
+![Fleet Carrier](../images/techbroker/commoditycarrier.png)
 
 Market & Mission Rewards commodities can be bought from station markets or be obtained from completing missions.
 
@@ -57,6 +65,8 @@ Market & Mission Rewards commodities can be bought from station markets or be ob
 | Telemetry Suite | Machinery | Mission Reward |
 
 ## Xeno Related Commodities
+
+![Prepared Uplink](../images/grelic/grelicuplinked.png)
 
 Xeno-related commodities can be obtained only at xenological activities, structures and destroying it's xenological species. 
 

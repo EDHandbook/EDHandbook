@@ -2,11 +2,15 @@
 
     The following content is for players who have the Odyssey DLC add-on. Unfortunately, Odyssey will not be accessible in Horizons 4.0 and there you must have selected the DLC in order to have access to the contents. 
 
+![Odyssey Banner](../images/odyssey/odyssey_banner.png)
+
 # Odyssey Materials
 
 Odyssey Materials were introduced into Elite: Dangerous following the Odyssey expansion in 2020 and the release of on-foot activities and its content. Odyssey Materials are used to upgrade both personal suit and weapons. Suits and weapons can be upgraded at pioneer supplies, engineers are used to apply specialized modifications.
 
 ## Odyssey Material Types
+
+![Odyssey Materials](../images/odyssey/odysseymaterials.png)
 
 Odyssey Materials are split into 3 categories, Assets, Goods, and Data.
 
@@ -20,6 +24,8 @@ Only Assets can be traded through a Bartender, an Odyssey materials trader, with
 1.  With the help of another player CMDR, trades in between players to players are feasible, however quantities and availabilities are subject to change, based on what the exchanging player has to offer.
 
 ## Personal Suit Upgrade Materials
+
+![Weapon Showcase](../images/odyssey/odysseygunner.png)
 
 All suits require a bundle of Health Monitor, Suit Schematics, Manufacturing Instructions and Power Regulators and a suit-specific material to unlock each grade.
 
@@ -36,6 +42,8 @@ All suits require a bundle of Health Monitor, Suit Schematics, Manufacturing Ins
 
 ## Personal Weapon Upgrade Materials
 
+![Exploration Suit](../images/odyssey/odysseyship.png)
+
 All weapon brands require a bundle of Weapon Schematics and Manufacturing Instructions and their brand-specific material set to unlock each grade.
 
 | Material | Type | Use | Source |
@@ -51,6 +59,8 @@ All weapon brands require a bundle of Weapon Schematics and Manufacturing Instru
 | Chemical Superbase | Asset | Manticore | Industrial / Agricultural Settlements |
 
 ## Engineer Required Materials
+
+![Odyssey Locker](../images/odyssey/odysseygoodslocker.png)
 
 Some Odyssey Engineers will require materials in order to access their specializations.
 

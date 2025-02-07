@@ -1,3 +1,5 @@
+![Blueprint Activated](../images/guardian/blueprint_banner.png)
+
 # Guardian Blueprint
 
 Guardian Blueprint Fragments are a grade 5 encoded material only obtainable from Guardian Structures with a terminal present. In this tutorial, we will go over as two how to obtain these rare Guardian Blueprint Fragments.
@@ -27,9 +29,17 @@ There are two different types of Guardian relics that one's able to obtain, and 
 
     Plot to the system:
     ```
-    Synuefe NL-N c23-4
+    Synuefe PX-J c25-8
     ```
-    And fly to planet B 3.
+    And fly to planet 7 A.
+
+    ??? warning "Alternative Location"
+
+        You may choose to plot to the old location for where the more popular Guardian Weapons blueprint site is.
+        ```
+        Synuefe NL-N c23-4
+        ```
+        Although the old system does have more Guardian Technology Components and is closer to a Tech Broker, **PX-J** is closer to the bubble than **NL-N** by around 200 light years.
 
 -   __Weapon Blueprint Type__
 
@@ -47,7 +57,7 @@ There are two different types of Guardian relics that one's able to obtain, and 
         ```
         Synuefe EU-Q c21-10
         ```
-        However, the GV-T system has the fastest loop to obtaining the most Guardian Weapons blueprint type, making it a far better place to farm for weapon type blueprints.
+        However, the **GV-T** system has the fastest loop to obtaining the most Guardian Weapons blueprint type, making it a far better place to farm for weapon type blueprints.
 
 </div>
 
@@ -109,15 +119,15 @@ Destroying Sentinels can yield sentinel-related material drops.
 
 Every Guardian Structure has six pylons. You must visit the Terminal to activate the pylons. This may warrant Guardian Sentinels to respond. If this is your first time visiting the Guardian sites, go drive around the Guardian Structure in the SRV and explore the structure site, noting where all of the pylons are. It is a good idea that you activate all 6 pylons before you go and begin charging them, since all 6 pylons will need to be charged before the count-down timer reaches 0 and the pylons will need to be re-charged to activate the terminal. Charging all 6 pylons will dispatch another group of Guardian Sentinels to respond.
 
-??? info "Synuefe NL-N c23-4 Pylon Locations"
+??? info "Synuefe PX-J c25-8 Module Pylon Locations"
 
-    ![NL-N Pylon Location](../images/guardian/sitemaps/NL-N_pylonmap.png)
+    ![PX-J Pylon Location](../images/guardian/sitemaps/PX-J_pylonmap.png)
 
-??? info "Synuefe GV-T b50-4 Pylon Locations"
+??? info "Synuefe GV-T b50-4 Weapon Pylon Locations"
 
     ![GV-T Pylon Location](../images/guardian/sitemaps/GV-T_pylonmap.png)
 
-??? info "Synuefe EU-Q c21-15 Pylon Locations"
+??? info "Synuefe EU-Q c21-15 Vessel Pylon Locations"
 
     ![EU-Q Pylon Location](../images/guardian/sitemaps/EU-Q_pylonmap.png)
 
@@ -148,13 +158,19 @@ An activated terminal will have an orb be deployed for scanning. You can use you
 
 Let's review what you need to do in order to obtain your Blueprint Fragments:
 
+<div class="build-card" markdown>
+
 1. Obtain an Ancient Key from a Guardian Beacon or an Ancient Relic from a Guardian Structure.
-2. Reach the terminal and activate the Pylons.
-3. Drive around and eliminate all Guardian Sentinel threats.
-4. Activate all pylons.
-5. Begin charging all six pylons with your SRV's turrets.
-6. Dispatch all Guardian Sentinel threats.
-7. Drop the Ancient Key or Relic on the `X` near the terminal.
-8. Scan the orb that gets deployed from the terminal.
-9. Destroy the remaining Guardian Sentinels or flee.
+2. Destroy any Guardian Sentinel threats.
+3. Reach the terminal and activate the Pylons.
+4. Drive around and eliminate all Guardian Sentinel threats.
+5. Activate all pylons.
+6. Begin charging all six pylons with your SRV's turrets.
+7. Dispatch all Guardian Sentinel threats.
+8. Drop the Ancient Key or Relic on the `X` near the terminal.
+9. Scan the orb that gets deployed from the terminal.
+10. Destroy the remaining Guardian Sentinels or flee.
+
+</div>
+
 

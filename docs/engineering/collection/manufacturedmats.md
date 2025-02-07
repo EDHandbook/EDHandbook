@@ -84,12 +84,14 @@ This is the legacy method of collecting Manufactured materials. Although it is c
 
 ## Collection Through Combat
 
-!!! example inline end "Hot Jupiter"
+![Hot Jupiter](../images/manufactured/manufacturedhotjupiter.png)
+
+Combat in general of enemy ships are another source of manufactured materials. Depending on the ship category and skill level, the quality of engineering materials increases. Large ships can drop some Grade 5 materials, smaller ships drops low grade materials.
+
+!!! example "Hot Jupiter"
 
     This is a system where a Gas Giant orbits around it's host star at close proximity. The system resides in an anarchy, unpopulated system, whereby illegal actions are not regulated. By killing tourist ships, may net you a pool of manufactured materials.
 
     ```
     Col 285 Sector RF-C b14-7
     ```
-
-Combat in general of enemy ships are another source of manufactured materials. Depending on the ship category and skill level, the quality of engineering materials increases. Large ships can drop some Grade 5 materials, smaller ships drops low grade materials.

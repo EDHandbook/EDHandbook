@@ -93,9 +93,8 @@ theme:
 
 # Navigation
 nav:
-  - Home: 
-    - Welcome: index.md
-    - About: about.md
+  - Home: index.md
+  - About: about.md
   - Getting Started: 
     - intro/welcome.md
     - Horizons: intro/edh.md
@@ -107,18 +106,19 @@ nav:
       - Manufactured Materials: engineering/collection/manufacturedmats.md
       - Encoded Materials: engineering/collection/encodedmats.md
       - Guardian Materials: 
-        - Guardian Materials: engineering/collection/guardianmats.md
+        - Guardian Components: engineering/collection/guardianmats.md
         - Guardian Blueprint: engineering/collection/guardianblueprint.md
-      - Thargoid Materials: engineering/collection/thargoidmats.md
+      - Thargoid Materials: 
+        - Thargoid Components: engineering/collection/thargoidmats.md
+        - Unclassified Relic: engineering/collection/thargoidgrelic.md
       - Odyssey Materials: engineering/collection/odysseymats.md
-      - Materials Trader: engineering/collection/matstrader.md
       - Commodities: engineering/collection/commoditymats.md
+    - Services:
+      - Materials Trader: engineering/collection/matstrader.md
+      - Technology Brokers: engineering/collection/techbrokers.md
     - Engineers:
       - Horizon Engineers: engineering/engineers/horizons-engineers.md
       - Odyssey Engineers: engineering/engineers/odyssey-engineers.md
-    - Modifications:
-      - Ship Modifications: engineering/modification/horizons-mods.md
-      - Equipment Modifications: engineering/modification/odyssey-mods.md
     
   - Tutorials:
     - Careers:

@@ -1,6 +1,6 @@
 ![Guardian Banner](../images/guardian/guardian_banner.png)
 
-# Guardian Materials
+# Guardian Components
 
 Guardian materials can be obtained anywhere in space where there is Guardian constructs. In categories of only Manufactured and Encoded materials, you can find Guardian resources around any Guardian ruins or structures. Guardian materials can not be cross traded for any other materials. Most of the Guardian weapons are used to unlock Guardian-related AX weapons and experimental modules. Guardian materials are also used for synthesis for Guardian-specialized modules.
 
@@ -61,9 +61,11 @@ Obelisk data can be found at both Guardian Structure Sites and Ancient Ruins. Al
 
     The recommended system to obtaining clusters of Obelisk data can be found here.
     ```
-    Vela Dark Region KR-W c1-24
+    Synuefe XR-H d11-102
     ```
-    Although, it is about 300 light years further away than the cluster of known blueprint fragment sites, these are recommended since you do not need to roam around and scan data, making it significantly easier to farm for Obelisk data. On planetary body 7 A and look for the Guardian Ruins. Any of the 3x8 or 3x9 array of obelisk should have a tight cluster of active Obelisk monoliths. 
+    Planetary Body 1 B, locate and fly to Ancient Ruin site 1.
+
+    Four relatively close obelisks align close to each other, making quick scan to obtain random obelisk pattern data. Look for two, 3 x 6 array of obelisk side by side. 
 
 
 ## Guardian Structure Commodities
@@ -78,6 +80,8 @@ Here are a list of systems that you should bookmark. Each guardian site has it's
 
 | System Name | Body | Site Type | Features |
 | ----------- | ---- | --------- | -------- |
+| Synuefe EN-H d11-96 | 7 A / 9 A | Outposts | System with Technology Brokers. |
+| Synuefe PJ-X C25-8 | 7 A | Module | Closest Module Structure Site to the bubble. |
 | Synuefe NL-N C23-4 | B 3 | Module | 5 Guardian Technology Components can be obtained here. |
 | Synuefe GV-T B50-4 | B 1 | Weapon | Best guardian site for farming Weapon Blueprints. |
 | Synuefe KU-F B44-4 | A 4 | Beacon | Sometimes the key gets lodged if you collect it with a collector limpet. |
