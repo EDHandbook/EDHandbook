@@ -93,15 +93,33 @@ theme:
 
 # Navigation
 nav:
-  - Home: 
-    - Welcome: index.md
-    - About: about.md
+  - Home: index.md
+  - About: about.md
   - Getting Started: 
     - intro/welcome.md
     - Horizons: intro/edh.md
     - Odyssey: intro/edo.md
   - Engineering:
     - engineering/engineering.md
+    - Collection:
+      - Raw Materials: engineering/collection/rawmats.md
+      - Manufactured Materials: engineering/collection/manufacturedmats.md
+      - Encoded Materials: engineering/collection/encodedmats.md
+      - Guardian Materials: 
+        - Guardian Components: engineering/collection/guardianmats.md
+        - Guardian Blueprint: engineering/collection/guardianblueprint.md
+      - Thargoid Materials: 
+        - Thargoid Components: engineering/collection/thargoidmats.md
+        - Unclassified Relic: engineering/collection/thargoidgrelic.md
+      - Odyssey Materials: engineering/collection/odysseymats.md
+      - Commodities: engineering/collection/commoditymats.md
+    - Services:
+      - Materials Trader: engineering/collection/matstrader.md
+      - Technology Brokers: engineering/collection/techbrokers.md
+    - Engineers:
+      - Horizon Engineers: engineering/engineers/horizons-engineers.md
+      - Odyssey Engineers: engineering/engineers/odyssey-engineers.md
+    
   - Tutorials:
     - Careers:
       - Combat: tutorials/careers/combat.md
