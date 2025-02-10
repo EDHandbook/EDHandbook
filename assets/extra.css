@@ -1,0 +1,70 @@
+.md-typeset h1 {
+    color:goldenrod;
+    font-family:'Segoe UI';
+    font-weight:bold;
+}
+
+.md-typeset h2, h3 {
+    color:lightslategray;
+    font-family:'Segoe UI';
+    font-weight: 500;
+}
+
+div.build-card {
+    background: rgba(0, 0, 0, 0.2);
+    padding: 1rem;
+    border-radius: 1rem;
+    margin-top: 1rem;
+    margin-bottom: 1rem;
+}
+
+div.build-card div.build-header {
+    display: flex;
+    flex-wrap: nowrap;
+    align-items: center;
+    justify-content: space-between;
+}
+
+div.build-card h3 {
+    margin-top: 0;
+    margin-bottom: 0;
+}
+
+.build-link{
+    background: rgba(0, 0, 0, 0.4);
+    padding: 0.4em;
+    padding-left: 1em;
+    padding-right: 1em;
+    border-radius: 0.4em;
+    margin-left: 1em;
+    margin-right: 1em;
+}
+
+.build-image{
+    width: 50%;
+}
+
+p.build-image-paragraph{
+    display: flex;
+    justify-content: center;
+}
+
+.image-captions{
+    text-align: center;
+    font-size: 0.5em;
+}
+
+.videoWrapper {
+    position: relative;
+    padding-bottom: 56.25%; /* 16:9 */
+    height: 0;
+    overflow: hidden;
+}
+
+.videoWrapper iframe {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+}
